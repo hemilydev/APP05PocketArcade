@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Identidade NeoArcade (neon retrô anos 80) -->
+    <color name="neo_fundo">#0D0221</color>
+    <color name="neo_superficie">#1A0B3D</color>
+    <color name="neo_card">#241256</color>
+    <color name="neo_rosa">#FF2E97</color>
+    <color name="neo_ciano">#00E5FF</color>
+    <color name="neo_roxo">#9D4EDD</color>
+    <color name="neo_texto">#F5F3FF</color>
+    <color name="neo_texto_suave">#B8B3D9</color>
+    <color name="neo_erro">#FF5370</color>
+
+    <!-- Pistas do Código Secreto (estilo TERMO) -->
+    <color name="termo_verde">#2ECC71</color>
+    <color name="termo_amarelo">#F1C40F</color>
+    <color name="termo_cinza">#6C757D</color>
+</resources>
